@@ -1,5 +1,5 @@
 
-<h2 align="center">Hey there! I'm Arslan</h2>
+<h2 align="center">Hey there! I'm Arslan Sarıkaya</h2>
 <p align="center">
 <img src="https://media.giphy.com/media/PiQejEf31116URju4V/giphy.gif?cid=790b7611f44f5fc33af2a25fecce62839c1dbf642327b2ee&rid=giphy.gif&ct=g" >
 
