@@ -10,7 +10,7 @@
   <b>Let's contact with me!</b>
 
   <p align="center">
-    <a href="www.linkedin.com/in/sarikayarslan/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/linkedin.svg" height:"60" width="60"></a>
+    <a href="https://www.linkedin.com/in/sarikayarslan/" alt="Linkedin"><img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/linkedin.svg" height:"60" width="60"></a>
     <a href="mailto:sarikayarslan@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/gmail.svg" height:"60" width="60"></a>
   </p> 
 
