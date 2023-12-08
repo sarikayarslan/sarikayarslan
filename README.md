@@ -14,7 +14,7 @@
     <a href="mailto:sarikayarslan@gmail.com" alt="Contact me"><img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/gmail.svg" height:"60" width="60"></a>
   </p> 
 
-<h2 align="center">:computer: Technologies :computer:</h2>
+<h2 align="center"> Technologies</h2>
 
 <p align="center">
       <img src="https://raw.githubusercontent.com/sarikayarslan/sarikayarslan/master/images/flutter.png" width="60" height="60">
